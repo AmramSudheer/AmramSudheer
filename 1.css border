@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+h1{
+    border:3px solid red;
+    border-radius: 20px;
+    
+    
+}
+#p1{
+    border-bottom: 5px red solid;
+    border-top: solid black 5px;
+    border-left: dotted white 0.5px;
+    border-right: dotted white 0.5px;
+    border-width: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+}
+#p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+#p3{
+    color: blue;
+}
