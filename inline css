@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body style="background-color: chocolate;" >
+          <h1 style="color:wheat;">this is website</h1>
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis perferendis sint facere vero. Harum sint accusantium quo suscipit labore facilis similique, esse iusto corrupti, quibusdam ad perspiciatis repudiandae, praesentium optio.
+          </p>
+          <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque tempora, praesentium unde saepe cupiditate ipsam reiciendis. Est nulla ad perferendis similique cum unde fugiat. Minus aperiam eius quidem eligendi modi?</P>
+          <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque tempora, praesentium unde saepe cupiditate ipsam reiciendis. Est nulla ad perferendis similique cum unde fugiat. Minus aperiam eius quidem eligendi modi?</P>
+          <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque tempora, praesentium unde saepe cupiditate ipsam reiciendis. Est nulla ad perferendis similique cum unde fugiat. Minus aperiam eius quidem eligendi modi?</P>
+          <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque tempora, praesentium unde saepe cupiditate ipsam reiciendis. Est nulla ad perferendis similique cum unde fugiat. Minus aperiam eius quidem eligendi modi?</P>
+
+        </body>
+    </head>
+</html>
