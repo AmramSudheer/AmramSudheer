@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="1.css">
+    <head>
+       
+        <body>
+          <img src="images/dog2.gif.jpg" id="img1">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores illum vitae expedita commodi earum non tenetur labore quasi aspernatur? Accusamus excepturi tenetur debitis. Consequuntur porro voluptates incidunt modi saepe cumque.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores illum vitae expedita commodi earum non tenetur labore quasi aspernatur? Accusamus excepturi tenetur debitis. Consequuntur porro voluptates incidunt modi saepe cumque.</p>
+         <img src="images/faded.png.jpg" id="img2">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores illum vitae expedita commodi earum non tenetur labore quasi aspernatur? Accusamus excepturi tenetur debitis. Consequuntur porro voluptates incidunt modi saepe cumque.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores illum vitae expedita commodi earum non tenetur labore quasi aspernatur? Accusamus excepturi tenetur debitis. Consequuntur porro voluptates incidunt modi saepe cumque.</p>
+          
+
+        </body>
+    </head>
+</html>
