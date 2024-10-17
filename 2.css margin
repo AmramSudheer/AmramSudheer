@@ -1,0 +1,18 @@
+body{
+    margin: 100px;
+}
+.box{
+    border: 10px double;
+    font-size: 5em;
+    height: 150px;
+    width: 180px;
+    font-family: fantasy;
+}
+#box1{
+    background-color: brown;
+    margin-left: 100px;
+}
+#box2{
+    background-color: chocolate;
+    margin-right: 200px;
+}
