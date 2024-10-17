@@ -1,0 +1,12 @@
+body{
+    border: 3px solid;
+    border-color: blueviolet;
+    display: flow-root;
+}
+#img1{
+    float: left;
+    
+}
+#img2{
+    float: right;
+}
